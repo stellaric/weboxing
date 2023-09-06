@@ -31,7 +31,7 @@ export default function Header() {
             <h1>Weboxing</h1>
             <Link to={"/"}>Accueil</Link>
             <Link to={"connexion"}>Connexion</Link>
-            <Link to={"inscription"}>Inscription</Link>
+            <Link to={"../inscription"}>Inscription</Link>
           </div>
         </div>
 
